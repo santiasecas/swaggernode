@@ -4,11 +4,10 @@ info:
   description: "Users API"
   version: "1.0.0"
   title: "Users"
-host: "api.users.es"
+host: "18.222.222.230:8080"
 basePath: "/users"
 schemes:
 - "http"
-- "https"
 consumes:
 - "application/json"
 produces:
